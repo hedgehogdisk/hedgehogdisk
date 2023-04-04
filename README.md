@@ -1,7 +1,6 @@
-## Olá!
+## Olá! Só sou um estudante de TI, nada demais... :3
 
-Meu nome é Nate Ray, estou atualmente estudando na Faculdade e Técnico QI (TI/IoT) e procuro aperfeiçoar minhas habilidades,
-mesmo que só seja lendo trabalho dos outros, espero ser bem recebido pela comunidade do GitHub!
+>  HTML/Java/JavaScript/Flutter/Dart
 
 <!---
 realvector/realvector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
