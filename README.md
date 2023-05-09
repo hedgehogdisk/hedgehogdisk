@@ -1,5 +1,5 @@
 ## 🐧 Olá!
-
+Estudante de Programação, com o tempo irei usar esta conta, agora, só estou aqui como observador.
 >  HTML/CSS/PHP/Java
 
 <!---
