@@ -1,6 +1,6 @@
 ## Olá! Só sou um estudante de TI, nada demais... :3
 
->  HTML/Java/JavaScript/Flutter/Dart
+>  HTML/CSS/PHP/Java
 
 <!---
 realvector/realvector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
