@@ -1,4 +1,4 @@
-## Olá! Só sou um estudante de TI, nada demais... :3
+## 🐧 Olá!
 
 >  HTML/CSS/PHP/Java
 
