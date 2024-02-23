@@ -1,5 +1,5 @@
 ## 🐧 Olá!
->  HTML/CSS/PHP/Java
+>  HTML/CSS/PHP/JS/Java/Kotlin
 
 <!---
 realvector/realvector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
